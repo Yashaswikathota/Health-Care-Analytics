@@ -52,10 +52,5 @@ Are inpatient/day case totals rising or declining?
 What wait durations are most common across time bands?
 
 
-## PROJECT STRUCTURE
-├── PowerBI_Dashboard.pbix
-├── README.md
-└── Related Screenshots
-
 
 
