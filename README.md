@@ -2,7 +2,7 @@
 This repository contains a Power BI dashboard designed to analyze patient waitlists, case types, and multi-year operational performance across healthcare specialties. The dashboard provides interactive insights into patient volumes, wait durations, age profiles, and specialty-level metrics.
 
 ## Overview
-* This dashboard helps healthcare analysts and operations teams understand:
+This dashboard helps healthcare analysts and operations teams understand:
 * Year-to-Date vs Last Year patient totals
 * Case type distribution (Outpatient, Day Case, Inpatient)
 * Median and average patient wait times
